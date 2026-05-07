@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\WebApp\\created_idea_009_project-portfolio-generator",
+  "zip": "D:\\AI\\WebApp\\created_idea_009_project-portfolio-generator\\idea_009_project-portfolio-generator.zip",
+  "rank": 22,
+  "domain": "WebApp",
+  "ideaNo": 9,
+  "title": "プロジェクトポートフォリオ生成",
+  "overview": "D:/AI配下や制作フォルダから公開用ポートフォリオを生成する。入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+  "problem": "制作物の一覧や説明ページを毎回手で更新する必要がある。",
+  "differentiation": "フォルダ情報とメタデータから静的サイトへ出力する。"
+}
