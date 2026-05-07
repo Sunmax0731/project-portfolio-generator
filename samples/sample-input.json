@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "project-portfolio-generator",
+    "title": "プロジェクトポートフォリオ生成"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "プロジェクトポートフォリオ生成 正常ケース",
+      "source": "source-ok",
+      "summary": "summary-ok",
+      "publicUrl": "publicUrl-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "screenshot": "ready"
+    }
+  ]
+}
