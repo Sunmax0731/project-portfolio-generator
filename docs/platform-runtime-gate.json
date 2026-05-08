@@ -1,0 +1,13 @@
+{
+  "product": "project-portfolio-generator",
+  "title": "プロジェクトポートフォリオ生成",
+  "domain": "WebApp",
+  "ideaNo": 9,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / GitHub Release",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
